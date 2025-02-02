@@ -5,8 +5,11 @@ This is an RAG-based AI assisted legal chatbot which answers all your queries re
 ### Technologies Used:
 
 1.[Python](https://www.python.org/)
+
 2.[HuggingFace](https://huggingface.co)
+
 3.[Streamlit](https://streamlit.io)
+
 4.[Langchain](https://www.langchain.com)
 
 
