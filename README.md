@@ -8,6 +8,8 @@ This is an RAG-based AI assisted legal chatbot which answers all your queries re
 3.[Streamlit](https://streamlit.io)
 4.[Langchain](https://www.langchain.com)
 
+
+
 ![image_2025-02-02_180510105](https://github.com/user-attachments/assets/a0f69d04-8399-4fdd-bf17-8eec3de85d08)
 
 
