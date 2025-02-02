@@ -1,5 +1,5 @@
 ## Juris AI 
-This is an RAG-based AI assisted legal chatbot which answers all your queries regarding case law,criminal law,labour laws etc.This chatbot was made as a part of a hackathon conducted by the AISoC society of Kalinga Institute of Industrial Technology.
+This is an RAG-based AI assisted legal chatbot which answers all your queries regarding case law,criminal law,labour laws etc.This chatbot was made as a part of a intra university hackathon.
 
 
 ### Technologies Used:
